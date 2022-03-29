@@ -64,7 +64,7 @@
     aria-label="마이메뉴 열기 버튼"
   >
     <div class="avatar-32">
-      <img src="./assets/images/img-user-01.jpg" alt="user" />
+      <img src="./assets/images/img-user-01.jpg" alt="user-01" />
     </div>
   </button>
 </div>
@@ -89,7 +89,7 @@
     <div class="avatar-24">
       <img src="./assets/images/img-user-01.jpg" alt="user-01" />
     </div>
-    <strong class="username">wow</strong>
+    <strong class="username">아이비</strong>
   </a>
 </div>
 ```
