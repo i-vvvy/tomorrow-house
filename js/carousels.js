@@ -21,10 +21,9 @@ const userGalleryMobile = tns({
   loop: false,
   mouseDrag: true,
   preventScrollOnTouch: true,
-  responsive: {},
 })
 
-const userGalleryDesk = tns({
+const userGalleryDesktop = tns({
   container: '.user-gallery.is-desktop .slider-list',
   gutter: 6,
   edgePadding: 75,
