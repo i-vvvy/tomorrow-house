@@ -24,11 +24,11 @@ const faviconFileList = [
 ]
 
 const faviconUrlList = [
-  '/apple-touch-icon.png',
-  '/favicon-32x32.png',
-  '/favicon-16x16.png',
-  '/site.webmanifest',
-  '/safari-pinned-tab.svg',
+  'apple-touch-icon.png',
+  'favicon-32x32.png',
+  'favicon-16x16.png',
+  'site.webmanifest',
+  'safari-pinned-tab.svg',
 ]
 
 function throwError(err) {
