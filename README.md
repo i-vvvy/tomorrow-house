@@ -1,95 +1,20 @@
-# 내일의 집
+### 오늘의집 클론코딩 | 반응형 웹 사이트
 
-### 1. GNB
+# **내일의집**
 
-- 로그인을 하지 않은 경우
+## **배포 주소**
 
-```html
-<div class="button-group">
-  <button
-    class="gnb-icon-button is-search lg-hidden"
-    type="button"
-    aria-label="검색창 열기 버튼"
-  >
-    <i class="ic-search"></i>
-  </button>
+[https://project-tomorrow-house.netlify.app](https://project-tomorrow-house.netlify.app)
 
-  <a class="gnb-icon-button is-cart" href="/" aria-label="장바구니로 이동">
-    <i class="ic-cart"></i>
-    <strong class="badge">5</strong>
-  </a>
-  <div class="gnb-auth sm-hidden">
-    <a href="/">로그인</a>
-    <a href="/">회원가입</a>
-  </div>
-</div>
-```
+<br>
 
-- 로그인을 한 경우
+## **기술 스택**
 
-```html
-<div class="button-group">
-  <button
-    class="gnb-icon-button is-search lg-hidden"
-    type="button"
-    aria-label="검색창 열기 버튼"
-  >
-    <i class="ic-search"></i>
-  </button>
+<p>
 
-  <a
-    class="gnb-icon-button sm-hidden"
-    href="/"
-    aria-label="스크랩북 페이지로 이동"
-  >
-    <i class="ic-bookmark"></i>
-  </a>
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  <a
-    class="gnb-icon-button sm-hidden"
-    href="/"
-    aria-label="내 소식 페이지로 이동"
-  >
-    <i class="ic-bell"></i>
-  </a>
-
-  <a class="gnb-icon-button is-cart" href="/" aria-label="장바구니로 이동">
-    <i class="ic-cart"></i>
-    <strong class="badge">5</strong>
-  </a>
-
-  <button
-    class="gnb-avatar-button sm-hidden"
-    type="button"
-    aria-label="마이메뉴 열기 버튼"
-  >
-    <div class="avatar-32">
-      <img src="./assets/images/img-user-01.jpg" alt="user-01" />
-    </div>
-  </button>
-</div>
-```
-
-### 2. Sidebar
-
-- 로그인을 하지 않은 경우
-
-```html
-<div class="sidebar-auth">
-  <a class="btn-outlined btn-40" href="/">로그인</a>
-  <a class="btn-primary btn-40" href="/">회원가입</a>
-</div>
-```
-
-- 로그인을 한 경우
-
-```html
-<div class="sidebar-user">
-  <a href="/">
-    <div class="avatar-24">
-      <img src="./assets/images/img-user-01.jpg" alt="user-01" />
-    </div>
-    <strong class="username">아이비</strong>
-  </a>
-</div>
-```
+</p>
